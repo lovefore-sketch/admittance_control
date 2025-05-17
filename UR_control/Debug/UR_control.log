@@ -1,0 +1,8 @@
+﻿  源.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\ur_rtde\include\ur_rtde\robot_state.h(176,1): warning C4267: “return”: 从“size_t”转换到“uint16_t”，可能丢失数据
+C:\ur_rtde\include\ur_rtde\robot_state.h(181,1): warning C4267: “return”: 从“size_t”转换到“uint16_t”，可能丢失数据
+LINK : fatal error LNK1104: 无法打开文件“rtde.lib”

@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\ur_rtde\include\ur_rtde\robot_state.h(176,1): warning C4267: “return”: 从“size_t”转换到“uint16_t”，可能丢失数据
+C:\ur_rtde\include\ur_rtde\robot_state.h(181,1): warning C4267: “return”: 从“size_t”转换到“uint16_t”，可能丢失数据
+E:\myProject\UR_control\UR_control\main.cpp(107,154): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(119,122): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(131,125): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(143,125): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(155,125): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(167,144): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(180,140): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(192,150): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(204,150): warning C4042: “params”: 有坏的存储类
+E:\myProject\UR_control\UR_control\main.cpp(217,171): warning C4042: “params”: 有坏的存储类
+  UR_control.vcxproj -> E:\myProject\UR_control\x64\Debug\UR_control.exe
